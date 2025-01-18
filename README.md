@@ -35,10 +35,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/d-aggarwal/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/d-aggarwal/DSA/tree/master/0070-climbing-stairs) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/d-aggarwal/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/d-aggarwal/DSA/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/d-aggarwal/DSA/tree/master/0198-house-robber) |
 ## Memoization
@@ -78,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2509-minimize-xor](https://github.com/d-aggarwal/DSA/tree/master/2509-minimize-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/d-aggarwal/DSA/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/d-aggarwal/DSA/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->

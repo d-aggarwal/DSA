@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/d-aggarwal/DSA/tree/master/0402-remove-k-digits) |
 | [1502-construct-k-palindrome-strings](https://github.com/d-aggarwal/DSA/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/d-aggarwal/DSA/tree/master/1524-string-matching-in-an-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/d-aggarwal/DSA/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/d-aggarwal/DSA/tree/master/0402-remove-k-digits) |
 | [1502-construct-k-palindrome-strings](https://github.com/d-aggarwal/DSA/tree/master/1502-construct-k-palindrome-strings) |
 | [2509-minimize-xor](https://github.com/d-aggarwal/DSA/tree/master/2509-minimize-xor) |
 ## Counting
@@ -104,10 +106,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/d-aggarwal/DSA/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/d-aggarwal/DSA/tree/master/0402-remove-k-digits) |
 | [0943-sum-of-subarray-minimums](https://github.com/d-aggarwal/DSA/tree/master/0943-sum-of-subarray-minimums) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/d-aggarwal/DSA/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/d-aggarwal/DSA/tree/master/0402-remove-k-digits) |
 | [0943-sum-of-subarray-minimums](https://github.com/d-aggarwal/DSA/tree/master/0943-sum-of-subarray-minimums) |
 <!---LeetCode Topics End-->

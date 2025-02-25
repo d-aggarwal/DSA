@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-shifting-letters-ii](https://github.com/d-aggarwal/DSA/tree/master/2465-shifting-letters-ii) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/d-aggarwal/DSA/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/d-aggarwal/DSA/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3763-separate-squares-i](https://github.com/d-aggarwal/DSA/tree/master/3763-separate-squares-i) |
 ## String
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/d-aggarwal/DSA/tree/master/0300-longest-increasing-subsequence) |
+| [3763-separate-squares-i](https://github.com/d-aggarwal/DSA/tree/master/3763-separate-squares-i) |
 ## Two Pointers
 |  |
 | ------- |

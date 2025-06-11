@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/d-aggarwal/DSA/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/d-aggarwal/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0943-sum-of-subarray-minimums](https://github.com/d-aggarwal/DSA/tree/master/0943-sum-of-subarray-minimums) |
+| [1036-rotting-oranges](https://github.com/d-aggarwal/DSA/tree/master/1036-rotting-oranges) |
 | [1524-string-matching-in-an-array](https://github.com/d-aggarwal/DSA/tree/master/1524-string-matching-in-an-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/d-aggarwal/DSA/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/d-aggarwal/DSA/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -116,4 +117,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/d-aggarwal/DSA/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/d-aggarwal/DSA/tree/master/0402-remove-k-digits) |
 | [0943-sum-of-subarray-minimums](https://github.com/d-aggarwal/DSA/tree/master/0943-sum-of-subarray-minimums) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1036-rotting-oranges](https://github.com/d-aggarwal/DSA/tree/master/1036-rotting-oranges) |
+## Matrix
+|  |
+| ------- |
+| [1036-rotting-oranges](https://github.com/d-aggarwal/DSA/tree/master/1036-rotting-oranges) |
 <!---LeetCode Topics End-->

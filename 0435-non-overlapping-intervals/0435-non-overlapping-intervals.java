@@ -3,7 +3,7 @@ class Solution {
         int n = intervals.length;
         Arrays.sort(intervals, (a, b) -> {
             if(a[1]!=b[1]) return a[1] - b[1];
-            else return b[0]-a[0];        } );
+            else return a[0]-b[0];        } );
 
         int prev = 0;
         int count = 1;

@@ -10,9 +10,21 @@ if(dp[i]!=-1) return dp[i];
     }
 
     public int climbStairs(int n) {
-    int [] dp = new int [n+1];
-    Arrays.fill(dp,-1);
-    return climb(dp,n,n);
+    // int [] dp = new int [n+1];
+    // Arrays.fill(dp,-1);
+    return climb2(n);
   
+    }
+
+    public static int climb2 (int n ) {
+        int[]dp = new int[n+1];
+        dp[0] = dp[1] =1;
+        for(int i =2;i<=n;i++) {
+int one = dp[i-1];
+    int sec = dp[i-2];
+
+    dp[i] = one+sec;
+        }
+        return dp[n];
     }
 }

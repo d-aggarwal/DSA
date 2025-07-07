@@ -1,7 +1,8 @@
 class Solution {
     public static int climb (int []dp, int n, int i) {
-    
-  if(i==0 || i ==1) return 1;
+
+   if( i ==0) return 0; 
+  if( i ==1) return 1;
 if(dp[i]!=-1) return dp[i];
     int one = climb(dp,n,i-1);
     int sec = climb(dp,n,i-2);

@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/d-aggarwal/DSA/tree/master/0042-trapping-rain-water) |
 | [0120-triangle](https://github.com/d-aggarwal/DSA/tree/master/0120-triangle) |
+| [0162-find-peak-element](https://github.com/d-aggarwal/DSA/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/d-aggarwal/DSA/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/d-aggarwal/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/d-aggarwal/DSA/tree/master/0435-non-overlapping-intervals) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/d-aggarwal/DSA/tree/master/0162-find-peak-element) |
 | [0300-longest-increasing-subsequence](https://github.com/d-aggarwal/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [3763-separate-squares-i](https://github.com/d-aggarwal/DSA/tree/master/3763-separate-squares-i) |
 ## Two Pointers

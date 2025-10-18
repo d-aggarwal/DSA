@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/d-aggarwal/DSA/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/d-aggarwal/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/d-aggarwal/DSA/tree/master/0435-non-overlapping-intervals) |
+| [0917-boats-to-save-people](https://github.com/d-aggarwal/DSA/tree/master/0917-boats-to-save-people) |
 | [0940-fruit-into-baskets](https://github.com/d-aggarwal/DSA/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/d-aggarwal/DSA/tree/master/0943-sum-of-subarray-minimums) |
 | [1036-rotting-oranges](https://github.com/d-aggarwal/DSA/tree/master/1036-rotting-oranges) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/d-aggarwal/DSA/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/d-aggarwal/DSA/tree/master/0435-non-overlapping-intervals) |
+| [0917-boats-to-save-people](https://github.com/d-aggarwal/DSA/tree/master/0917-boats-to-save-people) |
 | [1502-construct-k-palindrome-strings](https://github.com/d-aggarwal/DSA/tree/master/1502-construct-k-palindrome-strings) |
 | [2509-minimize-xor](https://github.com/d-aggarwal/DSA/tree/master/2509-minimize-xor) |
 ## Counting
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/d-aggarwal/DSA/tree/master/0042-trapping-rain-water) |
+| [0917-boats-to-save-people](https://github.com/d-aggarwal/DSA/tree/master/0917-boats-to-save-people) |
 ## Stack
 |  |
 | ------- |
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/d-aggarwal/DSA/tree/master/0242-valid-anagram) |
 | [0435-non-overlapping-intervals](https://github.com/d-aggarwal/DSA/tree/master/0435-non-overlapping-intervals) |
+| [0917-boats-to-save-people](https://github.com/d-aggarwal/DSA/tree/master/0917-boats-to-save-people) |
 ## Sliding Window
 |  |
 | ------- |

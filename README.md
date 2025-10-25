@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/d-aggarwal/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/d-aggarwal/DSA/tree/master/0070-climbing-stairs) |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/d-aggarwal/DSA/tree/master/1817-calculate-money-in-leetcode-bank) |
 ## Dynamic Programming
 |  |
 | ------- |

@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/d-aggarwal/DSA/tree/master/1036-rotting-oranges) |
 | [1524-string-matching-in-an-array](https://github.com/d-aggarwal/DSA/tree/master/1524-string-matching-in-an-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/d-aggarwal/DSA/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2169-simple-bank-system](https://github.com/d-aggarwal/DSA/tree/master/2169-simple-bank-system) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/d-aggarwal/DSA/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2465-shifting-letters-ii](https://github.com/d-aggarwal/DSA/tree/master/2465-shifting-letters-ii) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/d-aggarwal/DSA/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/d-aggarwal/DSA/tree/master/0242-valid-anagram) |
 | [0940-fruit-into-baskets](https://github.com/d-aggarwal/DSA/tree/master/0940-fruit-into-baskets) |
 | [1502-construct-k-palindrome-strings](https://github.com/d-aggarwal/DSA/tree/master/1502-construct-k-palindrome-strings) |
+| [2169-simple-bank-system](https://github.com/d-aggarwal/DSA/tree/master/2169-simple-bank-system) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/d-aggarwal/DSA/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/d-aggarwal/DSA/tree/master/3141-minimum-size-subarray-in-infinite-array) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/d-aggarwal/DSA/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -152,4 +154,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0940-fruit-into-baskets](https://github.com/d-aggarwal/DSA/tree/master/0940-fruit-into-baskets) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/d-aggarwal/DSA/tree/master/3141-minimum-size-subarray-in-infinite-array) |
+## Design
+|  |
+| ------- |
+| [2169-simple-bank-system](https://github.com/d-aggarwal/DSA/tree/master/2169-simple-bank-system) |
+## Simulation
+|  |
+| ------- |
+| [2169-simple-bank-system](https://github.com/d-aggarwal/DSA/tree/master/2169-simple-bank-system) |
 <!---LeetCode Topics End-->

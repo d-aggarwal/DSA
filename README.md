@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/d-aggarwal/DSA/tree/master/1524-string-matching-in-an-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/d-aggarwal/DSA/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2169-simple-bank-system](https://github.com/d-aggarwal/DSA/tree/master/2169-simple-bank-system) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/d-aggarwal/DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/d-aggarwal/DSA/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2465-shifting-letters-ii](https://github.com/d-aggarwal/DSA/tree/master/2465-shifting-letters-ii) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/d-aggarwal/DSA/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/d-aggarwal/DSA/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/d-aggarwal/DSA/tree/master/1524-string-matching-in-an-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/d-aggarwal/DSA/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/d-aggarwal/DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/d-aggarwal/DSA/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2465-shifting-letters-ii](https://github.com/d-aggarwal/DSA/tree/master/2465-shifting-letters-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/d-aggarwal/DSA/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/d-aggarwal/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/d-aggarwal/DSA/tree/master/0070-climbing-stairs) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/d-aggarwal/DSA/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/d-aggarwal/DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1036-rotting-oranges](https://github.com/d-aggarwal/DSA/tree/master/1036-rotting-oranges) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/d-aggarwal/DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Sorting
 |  |
 | ------- |

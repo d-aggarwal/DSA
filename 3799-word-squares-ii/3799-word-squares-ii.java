@@ -4,10 +4,7 @@ class Solution {
         if(curr.size()==4) {
             word.add(new ArrayList<>(curr));
 
-            System.out.println("completed");
-            for(int i =0;i<curr.size();i++) {
-                System.out.print(curr.get(i)+" ");
-            }
+            
             return;
         }
 

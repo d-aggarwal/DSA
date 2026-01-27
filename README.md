@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/d-aggarwal/DSA/tree/master/0042-trapping-rain-water) |
+| [0876-middle-of-the-linked-list](https://github.com/d-aggarwal/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/d-aggarwal/DSA/tree/master/0917-boats-to-save-people) |
 ## Stack
 |  |
@@ -175,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2169-simple-bank-system](https://github.com/d-aggarwal/DSA/tree/master/2169-simple-bank-system) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/d-aggarwal/DSA/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->

@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/d-aggarwal/DSA/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/d-aggarwal/DSA/tree/master/3141-minimum-size-subarray-in-infinite-array) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/d-aggarwal/DSA/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/d-aggarwal/DSA/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3763-separate-squares-i](https://github.com/d-aggarwal/DSA/tree/master/3763-separate-squares-i) |
 ## String
 |  |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/d-aggarwal/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0943-sum-of-subarray-minimums](https://github.com/d-aggarwal/DSA/tree/master/0943-sum-of-subarray-minimums) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/d-aggarwal/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/d-aggarwal/DSA/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Memoization
 |  |
 | ------- |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1036-rotting-oranges](https://github.com/d-aggarwal/DSA/tree/master/1036-rotting-oranges) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/d-aggarwal/DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/d-aggarwal/DSA/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Sorting
 |  |
 | ------- |

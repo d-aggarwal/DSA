@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/d-aggarwal/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/d-aggarwal/DSA/tree/master/0242-valid-anagram) |
 | [0940-fruit-into-baskets](https://github.com/d-aggarwal/DSA/tree/master/0940-fruit-into-baskets) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/d-aggarwal/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1502-construct-k-palindrome-strings](https://github.com/d-aggarwal/DSA/tree/master/1502-construct-k-palindrome-strings) |
 | [2169-simple-bank-system](https://github.com/d-aggarwal/DSA/tree/master/2169-simple-bank-system) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/d-aggarwal/DSA/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/d-aggarwal/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/d-aggarwal/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/d-aggarwal/DSA/tree/master/1036-rotting-oranges) |
 ## Matrix
 |  |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/d-aggarwal/DSA/tree/master/0242-valid-anagram) |
 | [0435-non-overlapping-intervals](https://github.com/d-aggarwal/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0917-boats-to-save-people](https://github.com/d-aggarwal/DSA/tree/master/0917-boats-to-save-people) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/d-aggarwal/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Sliding Window
 |  |
 | ------- |
@@ -200,14 +203,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/d-aggarwal/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/d-aggarwal/DSA/tree/master/0110-balanced-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/d-aggarwal/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/d-aggarwal/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/d-aggarwal/DSA/tree/master/0110-balanced-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/d-aggarwal/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/d-aggarwal/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/d-aggarwal/DSA/tree/master/0110-balanced-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/d-aggarwal/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->

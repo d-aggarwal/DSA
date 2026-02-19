@@ -22,8 +22,9 @@ class Solution {
         long inc, notinc =0;
 
         for(int i =0; i<n;i++) {
+             inc = nums[i];
             if(i!=0&& colors[i]==colors[i-1]) {
-                inc = nums[i];
+               
                 if(i>=2) inc+=dp[i-2];
             }else {
                 inc = nums[i];

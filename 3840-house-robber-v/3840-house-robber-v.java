@@ -19,7 +19,21 @@ class Solution {
     public long rob(int[] nums, int[] colors) {
         int n = nums.length;
         long[]dp= new long[n];
-        Arrays.fill(dp,-1);
-        return find(nums, colors,n-1,dp);
+        long inc, notinc =0;
+
+        for(int i =0; i<n;i++) {
+            if(i!=0&& colors[i]==colors[i-1]) {
+                inc = nums[i];
+                if(i>=2) inc+=dp[i-2];
+            }else {
+                inc = nums[i];
+                 if(i>=1) inc+=dp[i-1];
+             }
+
+            if(i>=1) notinc=dp[i-1];
+
+            dp[i]= Math.max(inc,notinc);
+        }
+        return dp[n-1];
     }
 }

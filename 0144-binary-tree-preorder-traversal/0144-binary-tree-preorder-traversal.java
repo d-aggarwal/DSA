@@ -53,7 +53,7 @@ class Solution {
                 // find the predecessor (rightmost node
                 // in the left subtree)
                 TreeNode prev = cur.left;
-                while (prev.right != null && prev.right != cur) {
+                while (prev.right != null) {
                     prev = prev.right;
                 }
 
@@ -63,14 +63,6 @@ class Solution {
                 if (prev.right == null) {
                     prev.right = cur.right;
                     cur = cur.left;
-                } else {
-                    // If the predecessor's right child
-                    // is already linked, remove the link,
-                    // add current node to inorder list,
-                    // and move to the right child
-                    prev.right = null;
-                    preorder.add(cur.val);
-                    cur = cur.right;
                 }
             }
         }

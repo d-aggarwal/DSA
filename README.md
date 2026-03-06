@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/d-aggarwal/DSA/tree/master/0917-boats-to-save-people) |
 | [0940-fruit-into-baskets](https://github.com/d-aggarwal/DSA/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/d-aggarwal/DSA/tree/master/0943-sum-of-subarray-minimums) |
+| [0994-rotting-oranges](https://github.com/d-aggarwal/DSA/tree/master/0994-rotting-oranges) |
 | [1036-rotting-oranges](https://github.com/d-aggarwal/DSA/tree/master/1036-rotting-oranges) |
 | [1524-string-matching-in-an-array](https://github.com/d-aggarwal/DSA/tree/master/1524-string-matching-in-an-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/d-aggarwal/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -161,10 +162,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/d-aggarwal/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/d-aggarwal/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0994-rotting-oranges](https://github.com/d-aggarwal/DSA/tree/master/0994-rotting-oranges) |
 | [1036-rotting-oranges](https://github.com/d-aggarwal/DSA/tree/master/1036-rotting-oranges) |
 ## Matrix
 |  |
 | ------- |
+| [0994-rotting-oranges](https://github.com/d-aggarwal/DSA/tree/master/0994-rotting-oranges) |
 | [1036-rotting-oranges](https://github.com/d-aggarwal/DSA/tree/master/1036-rotting-oranges) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/d-aggarwal/DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/d-aggarwal/DSA/tree/master/3651-minimum-cost-path-with-teleportations) |

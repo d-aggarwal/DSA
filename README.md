@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/d-aggarwal/DSA/tree/master/0940-fruit-into-baskets) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/d-aggarwal/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1502-construct-k-palindrome-strings](https://github.com/d-aggarwal/DSA/tree/master/1502-construct-k-palindrome-strings) |
+| [1797-design-authentication-manager](https://github.com/d-aggarwal/DSA/tree/master/1797-design-authentication-manager) |
 | [2169-simple-bank-system](https://github.com/d-aggarwal/DSA/tree/master/2169-simple-bank-system) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/d-aggarwal/DSA/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/d-aggarwal/DSA/tree/master/3141-minimum-size-subarray-in-infinite-array) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/d-aggarwal/DSA/tree/master/0173-binary-search-tree-iterator) |
+| [1797-design-authentication-manager](https://github.com/d-aggarwal/DSA/tree/master/1797-design-authentication-manager) |
 | [2169-simple-bank-system](https://github.com/d-aggarwal/DSA/tree/master/2169-simple-bank-system) |
 ## Simulation
 |  |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/d-aggarwal/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/d-aggarwal/DSA/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/d-aggarwal/DSA/tree/master/0876-middle-of-the-linked-list) |
+| [1797-design-authentication-manager](https://github.com/d-aggarwal/DSA/tree/master/1797-design-authentication-manager) |
 ## Recursion
 |  |
 | ------- |
@@ -266,4 +269,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/d-aggarwal/DSA/tree/master/0347-top-k-frequent-elements) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1797-design-authentication-manager](https://github.com/d-aggarwal/DSA/tree/master/1797-design-authentication-manager) |
 <!---LeetCode Topics End-->

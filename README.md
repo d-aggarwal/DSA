@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/d-aggarwal/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/d-aggarwal/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0917-boats-to-save-people](https://github.com/d-aggarwal/DSA/tree/master/0917-boats-to-save-people) |
+| [0934-shortest-bridge](https://github.com/d-aggarwal/DSA/tree/master/0934-shortest-bridge) |
 | [0940-fruit-into-baskets](https://github.com/d-aggarwal/DSA/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/d-aggarwal/DSA/tree/master/0943-sum-of-subarray-minimums) |
 | [0994-rotting-oranges](https://github.com/d-aggarwal/DSA/tree/master/0994-rotting-oranges) |
@@ -168,12 +169,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/d-aggarwal/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0934-shortest-bridge](https://github.com/d-aggarwal/DSA/tree/master/0934-shortest-bridge) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/d-aggarwal/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/d-aggarwal/DSA/tree/master/0994-rotting-oranges) |
 | [1036-rotting-oranges](https://github.com/d-aggarwal/DSA/tree/master/1036-rotting-oranges) |
 ## Matrix
 |  |
 | ------- |
+| [0934-shortest-bridge](https://github.com/d-aggarwal/DSA/tree/master/0934-shortest-bridge) |
 | [0994-rotting-oranges](https://github.com/d-aggarwal/DSA/tree/master/0994-rotting-oranges) |
 | [1036-rotting-oranges](https://github.com/d-aggarwal/DSA/tree/master/1036-rotting-oranges) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/d-aggarwal/DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/d-aggarwal/DSA/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/d-aggarwal/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/d-aggarwal/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0934-shortest-bridge](https://github.com/d-aggarwal/DSA/tree/master/0934-shortest-bridge) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/d-aggarwal/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |

@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/d-aggarwal/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0127-word-ladder](https://github.com/d-aggarwal/DSA/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/d-aggarwal/DSA/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/d-aggarwal/DSA/tree/master/0402-remove-k-digits) |
 | [1268-search-suggestions-system](https://github.com/d-aggarwal/DSA/tree/master/1268-search-suggestions-system) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/d-aggarwal/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/d-aggarwal/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0127-word-ladder](https://github.com/d-aggarwal/DSA/tree/master/0127-word-ladder) |
 | [0138-copy-list-with-random-pointer](https://github.com/d-aggarwal/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/d-aggarwal/DSA/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/d-aggarwal/DSA/tree/master/0160-intersection-of-two-linked-lists) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/d-aggarwal/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0127-word-ladder](https://github.com/d-aggarwal/DSA/tree/master/0127-word-ladder) |
 | [0934-shortest-bridge](https://github.com/d-aggarwal/DSA/tree/master/0934-shortest-bridge) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/d-aggarwal/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/d-aggarwal/DSA/tree/master/0994-rotting-oranges) |

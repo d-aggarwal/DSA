@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/d-aggarwal/DSA/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/d-aggarwal/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/d-aggarwal/DSA/tree/master/0213-house-robber-ii) |
+| [0239-sliding-window-maximum](https://github.com/d-aggarwal/DSA/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/d-aggarwal/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/d-aggarwal/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/d-aggarwal/DSA/tree/master/0435-non-overlapping-intervals) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/d-aggarwal/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/d-aggarwal/DSA/tree/master/0239-sliding-window-maximum) |
 | [0940-fruit-into-baskets](https://github.com/d-aggarwal/DSA/tree/master/0940-fruit-into-baskets) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/d-aggarwal/DSA/tree/master/3141-minimum-size-subarray-in-infinite-array) |
 ## Design
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/d-aggarwal/DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0239-sliding-window-maximum](https://github.com/d-aggarwal/DSA/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/d-aggarwal/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/d-aggarwal/DSA/tree/master/0347-top-k-frequent-elements) |
 | [1268-search-suggestions-system](https://github.com/d-aggarwal/DSA/tree/master/1268-search-suggestions-system) |
@@ -311,4 +314,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/d-aggarwal/DSA/tree/master/0023-merge-k-sorted-lists) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/d-aggarwal/DSA/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/d-aggarwal/DSA/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->

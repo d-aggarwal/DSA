@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/d-aggarwal/DSA/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/d-aggarwal/DSA/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3763-separate-squares-i](https://github.com/d-aggarwal/DSA/tree/master/3763-separate-squares-i) |
+| [3877-minimum-removals-to-achieve-target-xor](https://github.com/d-aggarwal/DSA/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 ## String
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/d-aggarwal/DSA/tree/master/0943-sum-of-subarray-minimums) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/d-aggarwal/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/d-aggarwal/DSA/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3877-minimum-removals-to-achieve-target-xor](https://github.com/d-aggarwal/DSA/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 ## Memoization
 |  |
 | ------- |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2509-minimize-xor](https://github.com/d-aggarwal/DSA/tree/master/2509-minimize-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/d-aggarwal/DSA/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3877-minimum-removals-to-achieve-target-xor](https://github.com/d-aggarwal/DSA/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 ## Combinatorics
 |  |
 | ------- |
